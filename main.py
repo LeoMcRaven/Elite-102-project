@@ -229,31 +229,6 @@ while loggedIn == False:
     else:
         ("Choose a valid response.")
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-for item in cursor:
-    print(item)
-
-
-
-
-
-
 cursor.close()
 connection.close()
 
